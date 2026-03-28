@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Souvik Manna<br>🎓 2nd Year Diploma Student in Computer Science Engineering (CSE)<br>💻 Aspiring Developer | Passionate Coder<br><br>I enjoy turning ideas into real-world projects and continuously improving my problem-solving skills.<br>Always learning, building, and exploring new technologies 🚀<br><br>⚡ Programming Languages: C, C++, Java, Python,php JavaScript, Node.js<br>🌐 Interests: Web Development & Software Development<br>📚 Currently Learning: Machine learning , Data Structures & Algorithms<br>
+👋 Hi, I'm Souvik Manna<br>🎓 3nd Year Diploma Student in Computer Science Engineering (CSE)<br>💻 Aspiring Developer | Passionate Coder<br><br>I enjoy turning ideas into real-world projects and continuously improving my problem-solving skills.<br>Always learning, building, and exploring new technologies 🚀<br><br>⚡ Programming Languages: C, C++, Java, Python,php JavaScript, Node.js<br>🌐 Interests: Web Development & Software Development<br>📚 Currently Learning: Machine learning , Data Structures & Algorithms<br>
 
 
 ## 🌐 Socials:
